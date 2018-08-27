@@ -11,11 +11,11 @@ $(document).ready(function(){
 	$('#btn-slice-3-3').click( function() {
 		FifteenGame($('#sliced-image'), $('#original-image').children('img')[0], 3, 3)
 	})
-	$('#btn-slice-5-5').click( function() {
-		FifteenGame($('#sliced-image'), $('#original-image').children('img')[0], 5, 5)
+	$('#btn-slice-4-4').click( function() {
+		FifteenGame($('#sliced-image'), $('#original-image').children('img')[0], 4, 4)
 	})
-	$('#btn-slice-6-4').click( function() {
-		FifteenGame($('#sliced-image'), $('#original-image').children('img')[0], 6, 4)
+	$('#btn-slice-3-6').click( function() {
+		FifteenGame($('#sliced-image'), $('#original-image').children('img')[0], 3, 6)
 	})
 
 	// Events
