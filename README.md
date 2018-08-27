@@ -1,5 +1,5 @@
 # 15 game
 
-A game I made in my spare time long ago. 
+15-puzzle game built using HTML5 and javascript. Unlike classic, this one is solvable :kissing:
 
-It's an abandoned project.
+[Demo](https://steveredka.github.io/15/)
